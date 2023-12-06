@@ -7,6 +7,14 @@
 - 💬 谁来救我 ...
 - 📫 联系我: ...
 
+```mermaid
+graph TD;
+    这里-->左边;
+    这里-->右边;
+    左边-->那里;
+    右边-->那里;
+```
+
 <!--
 **goodhubcn/goodhubcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
